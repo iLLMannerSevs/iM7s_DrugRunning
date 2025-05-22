@@ -8,8 +8,8 @@
 -------
 ### Purpose
 - This repository serves the purpose of providing:
-  -  Opportunity to create Issues,
-  -  Report any Bugs or Mod Conflicts,
-  -  Feedback and Suggestions,
-  -  and hosting any community Discussions pages.
+  -  Opportunity to create [Issues](https://github.com/iLLMannerSevs/iM7s_DrugRunning/issues),
+  -  [Report any Bugs](https://github.com/iLLMannerSevs/iM7s_DrugRunning/issues) or Mod Conflicts,
+  -  Feedback and [Suggestions](https://github.com/iLLMannerSevs/iM7s_DrugRunning/discussions/categories/ide),
+  -  and hosting any community [Discussions](https://github.com/iLLMannerSevs/iM7s_DrugRunning/discussions) pages.
 
