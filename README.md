@@ -4,6 +4,8 @@
 > This repository does not (at the moment) contain any source code or files.
 >
 >  However, this may change going forward as the mod continues to develop and gain popularity.
+>
+> Documentation can be found: https://illmannersevs.gitbook.io/im7s_drugrunning-wiki
 
 -------
 ### Purpose
