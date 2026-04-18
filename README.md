@@ -1,3 +1,5 @@
+<img width="720" height="720" alt="iM7s_DrugRunning Logo" src="https://github.com/user-attachments/assets/162069b5-87bf-4db9-922d-d1cf98cd5baa" />
+
 # iM7s_DrugRunning
 
 > [!NOTE]
